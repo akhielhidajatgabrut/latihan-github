@@ -5,3 +5,4 @@ rencana kedepan
   *membuat project dengan laravel
 - react
   *membuat project dengan react
+- memiliki kerja yang layak
