@@ -7,4 +7,6 @@ rencana kedepan
    2.aplikasi sekolah
 - react
   *membuat project dengan react
-   1. aplikasi boking pesawat
+   1. aplikasi booking pesawat
+- memiliki kerja yang layak
+- memiliki gaji di atas ump
