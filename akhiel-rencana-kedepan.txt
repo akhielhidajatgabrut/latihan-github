@@ -1,0 +1,5 @@
+rencana kedepan
+- bisa membuat aplikasi mobile
+- bisa beberapa framewrok
+-laravel
+- react
