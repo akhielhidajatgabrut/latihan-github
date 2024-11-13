@@ -4,7 +4,7 @@ rencana kedepan
 -laravel
   *membuat project dengan laravel
    1.aplikasi ecomerce
-   2. aplikasi elearning
+   2.aplikasi sekolah
 - react
   *membuat project dengan react
    1. aplikasi booking pesawat
