@@ -3,6 +3,8 @@ rencana kedepan
 - bisa beberapa framewrok
 -laravel
   *membuat project dengan laravel
+   1.aplikasi ecomerce
+   2.aplikasi sekolah
 - react
   *membuat project dengan react
-- memiliki kerja yang layak
+   1. aplikasi boking pesawat
