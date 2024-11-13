@@ -2,4 +2,6 @@ rencana kedepan
 - bisa membuat aplikasi mobile
 - bisa beberapa framewrok
 -laravel
+  *membuat project dengan laravel
 - react
+  *membuat project dengan react
