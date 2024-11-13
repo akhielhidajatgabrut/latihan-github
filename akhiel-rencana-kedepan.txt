@@ -3,6 +3,9 @@ rencana kedepan
 - bisa beberapa framewrok
 -laravel
   *membuat project dengan laravel
+   1.aplikasi ecomerce
 - react
   *membuat project dengan react
+   1. aplikasi booking pesawat
 - memiliki kerja yang layak
+- memiliki gaji di atas ump
